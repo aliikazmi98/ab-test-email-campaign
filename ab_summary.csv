@@ -1,0 +1,3 @@
+group,n_users,n_converted,conversion_rate_pct,ci_lower_95_pct,ci_upper_95_pct,avg_total_ads
+Control (PSA),23524,420,1.7854,1.6162,1.9546,24.76
+Treatment (Ad),564577,14423,2.5547,2.5135,2.5958,24.82
